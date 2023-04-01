@@ -1,6 +1,6 @@
 [submodule "SimpleIniParser"]
 	path = SimpleIniParser
-	url = https://github.com/TTghostsemir/Simple-INI-Parser
+	url = https://github.com/TTghostsemir/Simple-INI-Parser.git
 [submodule "json"]
 	path = json
 	url = https://github.com/nlohmann/json
